@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="actionbar_bg">#FAFAFA</color>
+    <color name="window_bg">#F5F5F5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="running">#00000000</color>
+    <!-- 文字用色-->
+    <color name="text1_white">#ffffff</color>
+
+    <color name="text_color_a0b3d6">#a0b3d6</color>
+    <color name="bg_f6f7f9">#f6f7f9</color>
+    <color name="bg_edf3fa">#edf3fa</color>
+    <color name="bg2_light_white">#f9f9f9</color>
+    <color name="bg3_light_gray">#f2f2f2</color>
+    <!-- 背景用色 -->
+    <color name="bg1_white">#ffffff</color>
+    <color name="bg5_blue">#1e78be</color>
+    <color name="bg4_dark_blackish_green">#29343f</color>
+    <color name="text_color_1e78be">#1e78be</color>
+    <color name="text5_black">#333333</color>
+    <color name="text6_blue">#1e78be</color>
+    <color name="text7_red">#c42237</color>
+
+    <color name="circle_red_cd3a33">#cd3a33</color>
+    <color name="circle_bule_bbd4e7">#bbd4e7</color>
+</resources>

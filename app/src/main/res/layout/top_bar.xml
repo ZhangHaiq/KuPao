@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/top_bar_linear"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg5_blue">
+
+    <RelativeLayout
+        android:id="@+id/ll_top"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        >
+
+
+
+        <TextView
+            android:id="@+id/tv_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:text="天天跑步"
+            android:gravity="center"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+            android:textColor="@color/text1_white"
+            android:singleLine="true"
+            />
+
+
+    </RelativeLayout>
+
+</LinearLayout>
